@@ -1,0 +1,6 @@
+h1{
+    border-style: solid;
+    border-width: 3px;
+    border-color: hsl(39, 100%, 54%);
+    border-radius: 5px;
+}

@@ -1,0 +1,10 @@
+h1{
+    border: 3px solid hsl(39, 100%, 54%);
+    border-radius: 5px;
+}
+p{
+    border-bottom: 3px solid rgb(252, 28, 28);
+    border-top: 3px solid rgb(255, 255, 35);
+    border-left: 3px dotted rgb(255, 179, 37);
+    border-right: 3px dotted rgb(62, 255, 62);
+}
