@@ -65,4 +65,4 @@ Feel free to fork this repository and submit your own CSS projects or improvemen
 <hr>
 
 ### License
-This project is licensed under the BSD-3-Clause License - see the LICENSE file for details.
+This project is licensed under the BSD 3-Clause "New" or "Revised" License - see the LICENSE file for details.
